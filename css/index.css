@@ -206,9 +206,13 @@ footer nav a {
 
 /* ABOUT SECTION CSS BELOW THIS LINE*/
 
+
 .about-page{
 padding-bottom:40px;
 border-bottom: 1px dashed black;
+padding-left:20px;
+
+
 }
 
 
@@ -216,6 +220,8 @@ border-bottom: 1px dashed black;
     padding-top:20px;
     padding-bottom:10px;
     display:flex;
+    padding-left:20px;
+    
 }
 
 .strat h2{
@@ -224,8 +230,9 @@ border-bottom: 1px dashed black;
 
 .places{
     display:flex;
-    padding-top:20px;
+    padding-top:40px;
     padding-bottom:40px;
+    padding-left:20px;
 }
 
 .places h2{
@@ -233,7 +240,7 @@ border-bottom: 1px dashed black;
 }
 
 .lbutton{
-    border: 1px solid black;
+    border: 2px solid black;
     width:40%;
     padding:10px;
     border-radius:10px;
@@ -243,4 +250,11 @@ border-bottom: 1px dashed black;
 
 .work{
     padding-bottom:20px;
+    padding-left:20px;
+}
+
+.dash{
+    border-bottom:1px dashed black;
+    width:90%;
+    
 }

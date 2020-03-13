@@ -200,3 +200,22 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+
+
+/* ABOUT SECTION CSS BELOW THIS LINE*/
+
+.about-page{
+padding-bottom:40px;
+border-bottom: 1px dashed black;
+}
+
+
+.strat{
+    padding-top:20px;
+    display:flex;
+}
+
+
+
